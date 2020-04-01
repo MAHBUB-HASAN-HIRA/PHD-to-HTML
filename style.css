@@ -1,0 +1,242 @@
+/*===HEADER AREA===*/
+.top-header{
+    background-color: #262261;
+    height:4rem;
+    width: 100%;
+    border-bottom: .3rem solid #e55032;
+   
+}
+.top-header p{
+    color: #e55032;
+    font-size: .9rem;
+    font-family: Fira Sans Regular;
+    margin-top: auto;
+}
+.top-header h4{
+    color: #fff;
+    margin-top:auto;
+}
+.main-header{
+    height:6rem;
+    font-family:  Fira Sans Light;
+    margin-bottom: 2rem;
+}
+.main-header img{
+    width: 15rem;
+    height: 4rem;
+    margin-top: 2rem;
+    margin-left: 12rem;   
+}
+.link{
+    margin-top: auto;
+    margin-right: 8rem;
+}
+.link ul li{
+    display:inline-block;
+    text-transform:uppercase;
+    padding-right: 2rem;   
+}
+.link ul li a{
+    text-decoration: none;
+    color: #24215a; 
+    
+}
+.link ul li a::after,
+.link ul li a:hover{
+    border-bottom: .2rem solid #e55032;
+}
+
+
+/*===SECTION AREA===*/
+
+.oath{
+    background-image: url('image/GettyImages-500301842.png');
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 45rem;
+    color:#262261;
+    
+}
+
+.oath-border{
+    border-left: .4rem solid  #e55032;
+    display:inline-block;
+    margin-top: 8rem;
+    margin-left:15rem;  
+    margin-right: 25rem;
+    padding-left:2rem ;
+}
+.oath h3{
+    font-family:  Fira Sans;
+    font-size: 4.49rem;
+    font-weight: bold;
+    
+}
+.oath p{
+    font-family:  Fira Sans Light;
+    font-size: 3rem;
+     
+}
+
+/*===prescribe AREA===*/
+
+.container{
+    color:#24215a ;
+}
+.row{
+    margin-left: 7rem;
+}
+.container h3{
+    font-family:Fira Sans ;
+    font-weight: bold;
+    font-size: 3.5rem;
+    margin-top: 5rem;
+}
+.container p {
+    font-family: Fira Sans light;
+    font-size: 1.5rem;
+    margin-right: 5.5rem;
+}
+.add-cta {
+    display:inline-block;
+    font-family: Fira Sans regular;
+    font-size: 1.5rem;
+    color:#24215a ;
+    border: .15rem solid #e55032;
+    padding: .3rem 1.5rem;
+}
+
+.PIC-INJECTION{
+    margin-top: 6rem;
+    margin-bottom: 8rem;
+}
+.injection{
+    padding-left: 7rem;
+}
+.injection img{
+    width: 3rem;
+    height: 5rem;
+
+}
+.injection a {
+    color:#24215a ;
+    display: inline-block;
+    text-decoration: none;
+    margin-top: 2rem;
+}
+.injection a::after,
+.injection a:hover{
+    border-bottom: .2rem solid #e55032
+}
+
+/*===video AREA===*/
+
+.bread{
+    background-color: #262261;
+    height: 30rem;
+}
+.registration{
+color:white;
+font-family: Fira Sans ;
+display: block;
+
+}
+.registration h4{
+    font-weight: bold;
+    font-size: 1.6rem;
+    display: inline-block;
+    margin-top:10rem; 
+    margin-left: 10rem; 
+    padding-bottom: 1rem;
+}
+.registration p{
+    font-family: Fira Sans light;
+    font-size: 1.2rem;
+    margin-left: 10rem; 
+    margin-right: 10rem;
+}
+.mahbub{
+    margin-top: 5rem;
+    padding-right: 6rem;
+
+}
+
+/*===ORDER AREA===*/
+
+.content-order{
+    margin-bottom: 4rem;
+    color:#24215a  ;
+}
+.order{
+    margin-left: 10rem; 
+    margin-top: 7rem;
+    margin-right: 5rem;
+    
+}
+.order h3{
+    font-weight:Fira Sans sharp;
+    font-weight: bold;
+    font-size: 3.5rem;  
+}
+.order p{
+ font-family:Fira Sans light;
+ font-size:1.5rem;
+
+}
+#call{
+    text-align: center;
+    width: 15rem;
+    height: 12rem;
+    border: .2rem solid  #e55032;
+    box-sizing: border-box;
+     margin-top: auto;
+    margin-right: 7rem;
+    margin-left: 3rem;
+    padding-right:5rem;
+    padding-left: 5rem;
+    padding-top: .5rem;
+    
+  
+    
+    
+}
+#call h3{
+        font-family:Fira Sans sharp ;
+        font-weight: bold;
+        font-size:1.8rem ;
+
+        
+}
+#call a{
+    display: block;
+    text-decoration: none;
+    text-align: enter;
+    color:#24215a   ;
+}
+
+
+/*===FOOTER AREA===*/
+
+footer{
+    height: 16rem;
+   background-color:#e55032 ;
+   color: #fff;
+   padding-left: 11rem;
+   padding-top: 3rem;
+   padding-right: 10rem;
+}
+.location h5{
+    font-family:Fira Sans;
+    font-weight: bold;
+    font-size: 1.8rem;
+}
+.location{
+    font-family:Fira Sans light ;
+    font-size: 1.8rem;
+}
+
+.contact-us h4{
+    font-family:Fira Sans sharp;
+    font-weight: bold;
+    font-size: 1.8rem;
+}
